@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "../colors.h"
+#include "colors.h"
 
 #define COL_LENGTH 3
 #define ROW_LENGTH 3
